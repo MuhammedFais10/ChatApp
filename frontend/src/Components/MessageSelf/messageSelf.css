@@ -1,0 +1,24 @@
+.self-message-contaner{
+   display: flex;
+   justify-content: flex-end;
+
+}
+
+.messageBox{
+ display: flex;
+ flex-direction: column;
+ background-color: #63d7b0;
+ width: max-content;
+ padding: 10px 10px;
+ margin: 5px;
+ border-radius: 20px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.self-timeStamp {
+  
+  text-align: right; /* Aligns text to the right */
+  font-size: 0.63rem;
+  font-weight: lighter;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
