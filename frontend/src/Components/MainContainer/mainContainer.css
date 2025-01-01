@@ -1,0 +1,11 @@
+
+
+.main-container{
+  height: 90vh; /*vh;- view for height */
+  width: 90vw;/*vw;- view for width */
+  background-color: #f4f5f8;
+  display: flex;
+  border-radius: 20px;
+}
+
+/* #f4f5f8; */

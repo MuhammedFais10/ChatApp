@@ -1,0 +1,17 @@
+.createGroupe-container{
+flex: 0.7;
+align-self: center;
+padding: 20px 10px; 
+background-color: white;
+border-radius: 20px;
+margin: 10px;
+display: flex;
+justify-content: space-between;
+}
+
+@media only screen and (max-width: 40em) {
+  .createGroupe-container {
+    flex: 1;
+    flex-direction: row;
+   }
+}
