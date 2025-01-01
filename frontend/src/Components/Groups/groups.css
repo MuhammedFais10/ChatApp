@@ -1,0 +1,83 @@
+/* 
+  .ug-search{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    max-width: 400px; /* Limit the width 
+  }
+  .ug-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.54);
+    margin-left: 10px;
+  }
+  .ug-header{
+    background-color: white;
+    border-radius: 20px;
+    padding: 12px 5px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .search-box {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 5px;
+    font-size: 1rem;
+  }
+ 
+
+
+  .ug-list{
+    flex: 2;
+    overflow: scroll;
+    scrollbar-width: none;
+    padding: 10px;
+   
+  }
+  .ug-list::-webkit-scrollbar{
+    display: none;
+  }
+  
+  .list-tem{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
+    padding: 10px ;
+    margin: 10px;
+    gap: 15px;
+    transition-duration: 0.5s;
+  }
+  
+  
+  .list-tem:hover{
+    background-color: rgb(226, 226, 226);
+  }
+  .list-tem:active{
+    background-color: white;
+  }
+  
+  .ug-con-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: white;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    margin-left: 10px;
+  }
+   */
